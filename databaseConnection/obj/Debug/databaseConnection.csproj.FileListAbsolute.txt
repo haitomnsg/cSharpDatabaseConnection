@@ -1,0 +1,8 @@
+D:\databaseConnection\databaseConnection\bin\Debug\databaseConnection.exe.config
+D:\databaseConnection\databaseConnection\bin\Debug\databaseConnection.exe
+D:\databaseConnection\databaseConnection\bin\Debug\databaseConnection.pdb
+D:\databaseConnection\databaseConnection\obj\Debug\databaseConnection.csproj.AssemblyReference.cache
+D:\databaseConnection\databaseConnection\obj\Debug\databaseConnection.csproj.SuggestedBindingRedirects.cache
+D:\databaseConnection\databaseConnection\obj\Debug\databaseConnection.csproj.CoreCompileInputs.cache
+D:\databaseConnection\databaseConnection\obj\Debug\databaseConnection.exe
+D:\databaseConnection\databaseConnection\obj\Debug\databaseConnection.pdb
