@@ -32,7 +32,7 @@ namespace databaseConnection
 
         public static bool databaseConnection()
         {
-            connectionString = @"Data Source=BLAK;Initial Catalog=haitomns;Integrated Security=True";
+            connectionString = @"Data Source=BLAK;Initial Catalog=haitomnsg;Integrated Security=True";
 
             conn = new SqlConnection(connectionString);
             try
@@ -52,7 +52,7 @@ namespace databaseConnection
             string point;
 
             Console.Clear();
-            Console.WriteLine("\n\n 1. Select \n 2. Insert \n 3. Delete \n 4. Update");
+            Console.WriteLine("\n\n 1. Select Data \n 2. Insert Data \n 3. Delete Data \n 4. Update Data");
             Console.Write("\n\n\n Enter To go : ");
             point = Console.ReadLine();
 
